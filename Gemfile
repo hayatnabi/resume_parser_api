@@ -45,3 +45,11 @@ group :development, :test do
   # Omakase Ruby styling [https://github.com/rails/rubocop-rails-omakase/]
   gem "rubocop-rails-omakase", require: false
 end
+
+gem "dotenv-rails", "~> 3.1"
+
+gem 'pdf-reader'
+
+gem "httparty", "~> 0.23.1"
+
+gem "roo", "~> 2.10"
