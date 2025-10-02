@@ -52,4 +52,4 @@ gem 'pdf-reader'
 
 gem "httparty", "~> 0.23.1"
 
-gem "roo", "~> 2.10"
+gem "roo", "~> 3.0"
