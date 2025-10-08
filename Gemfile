@@ -50,6 +50,6 @@ gem "dotenv-rails", "~> 3.1"
 
 gem 'pdf-reader'
 
-gem "httparty", "~> 0.23.1"
+gem "httparty", "~> 0.23.2"
 
 gem "roo", "~> 2.10"
